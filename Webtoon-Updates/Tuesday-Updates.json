@@ -1,0 +1,73 @@
+{ 
+  "embeds":[ 
+    { 
+      "author": { 
+        "name": "New Updates!", 
+        "url": "http://www.webtoons.com/", 
+        "icon_url": "https://cdn.discordapp.com/attachments/342431713106067476/348906406084214795/webtoons.png" }, 
+      "description": "Here are the Webtoons updates for today!", 
+      "color":9893760, 
+      "footer": { 
+        "icon_url": "https://pbs.twimg.com/media/EVGCx5HX0AAF5Hi.jpg", 
+        "text": "Tuesday | Created by thetoastandpotato, updated by Baguette Sandwich" 
+      }, 
+      "fields":[ 
+        { 
+          "name":":herb: Slice of Life:", 
+          "value":"[My Giant Nerd Boyfriend](https://www.webtoons.com/en/slice-of-life/my-giant-nerd-boyfriend/list?title_no=958)\n[Bluechair](https://www.webtoons.com/en/slice-of-life/bluechair/list?title_no=199)\n[Yumi's Cells](https://www.webtoons.com/en/slice-of-life/yumi-cell/list?title_no=478)", 
+          "inline":true 
+        }, 
+        { 
+          "name":":clapper: Action:", 
+         "value":"[Cape of Spirit](https://www.webtoons.com/en/action/cape-of-spirits/list?title_no=1559)\n[Darbi (Hiatus)](https://www.webtoons.com/en/action/darbi/list?title_no=1098)", 
+         "inline":true 
+        }, 
+        { 
+          "name":":performing_arts: Drama:", 
+          "value":"[The Devil is a Handsome Man (Hiatus)](https://www.webtoons.com/en/drama/the-devil-is-a-handsome-man/list?title_no=1311)\n[Fluidum](https://www.webtoons.com/en/drama/fluidum/list?title_no=2283)", 
+          "inline":true 
+        }, 
+        { 
+          "name":":joy: Comedy:", 
+          "value":"[Everywhere & Nowhere](https://www.webtoons.com/en/comedy/everywhere-and-nowhere/list?title_no=1598)\n[Safely Endangered](https://www.webtoons.com/en/comedy/safely-endangered/list?title_no=352)\n[AXED](https://www.webtoons.com/en/comedy/axed/list?title_no=1558)\n[dustineractive](https://www.webtoons.com/en/comedy/dustinteractive/list?title_no=907)\n[Unlucky is as Lucky Does (Hiatus)](https://www.webtoons.com/en/comedy/unlucky-is-as-lucky-does/list?title_no=1554)", 
+          "inline": true 
+        }, 
+        { 
+          "name":":heart: Romance:", 
+          "value": "[True Beauty](https://www.webtoons.com/en/romance/truebeauty/list?title_no=1436)\n[Age Matters (Hiatus)](https://www.webtoons.com/en/romance/age-matters/list?title_no=1364)\n[Love Me Knot](https://www.webtoons.com/en/romance/love-me-knot/list?title_no=2224)\n[Phase](https://www.webtoons.com/en/romance/phase/list?title_no=2117)\n[Swimming Lessons for a Mermaid](https://www.webtoons.com/en/romance/swimming-lessons-for-a-mermaid/list?title_no=1912)\n[The Girl Downstairs](https://www.webtoons.com/en/romance/the-girl-downstairs/list?title_no=1809)", 
+          "inline": true 
+        }, 
+        { 
+          "name": ":sparkles: Fantasy:", 
+          "value": "[Omniscent Reader](https://www.webtoons.com/en/fantasy/omniscient-reader/list?title_no=2154)\n[Crown of Feathers](https://www.webtoons.com/en/fantasy/crown-of-feathers/list?title_no=2126)\n[DICE](https://www.webtoons.com/en/fantasy/dice/list?title_no=64)\n[Elf & Warrior](https://www.webtoons.com/en/fantasy/elf-and-warrior/list?title_no=908)\n[SOLEIL](https://www.webtoons.com/en/fantasy/soleil/list?title_no=1823)\n[The Masked Fables](https://www.webtoons.com/en/fantasy/the-masked-fables/list?title_no=2384)", 
+          "inline": true 
+        }, 
+        { 
+          "name": ":ghost: Supernatural:", 
+          "value": "[Devil Number 4](https://www.webtoons.com/en/supernatural/devil-no-4/list?title_no=1695)\n[Soul on Hold](https://www.webtoons.com/en/supernatural/soul-on-hold/list?title_no=1701)\n[Rise From Ashes](https://www.webtoons.com/en/supernatural/rise-from-ashes/list?title_no=959)\n[Sword Interval (Hiatus)](https://www.webtoons.com/en/supernatural/sword-interval/list?title_no=486)\n[The World Where I Belong (Hiatus)](https://www.webtoons.com/en/supernatural/the-world-where-i-belong/list?title_no=1318)", 
+          "inline": true 
+        }, 
+        { 
+          "name": ":alien: Sci-fi:", 
+          "value": "[In the Bleak Midwinter](https://www.webtoons.com/en/sf/in-the-bleak-midwinter/list?title_no=1946)\n[Rebirth](https://www.webtoons.com/en/sf/rebirth/list?title_no=1412)\n[Bloodless Wars](https://www.webtoons.com/en/sf/bloodless-wars/list?title_no=1622)\n[Denma](https://www.webtoons.com/en/sf/denma/list?title_no=921)", 
+          "inline": true 
+        }, 
+        { 
+          "name": ":scream: Horror:", 
+          "value": "[BRAIN Anthology](https://www.webtoons.com/en/horror/brain-anthology/list?title_no=2207)", 
+          "inline": true 
+        }, 
+        { 
+          "name": ":sunglasses: Superhero:", 
+          "value": "[Arma](https://www.webtoons.com/en/super-hero/arma/list?title_no=1640)\n[The Red Hook: Blackout](https://www.webtoons.com/en/super-hero/the-red-hook-blackout/list?title_no=2282)\n[Backchannel (Hiatus)](https://www.webtoons.com/en/super-hero/backchannel/list?title_no=1456)\n[Outrage](https://www.webtoons.com/en/super-hero/outrage/list?title_no=1450)", 
+          "inline": true 
+        }, 
+        { 
+          "name": ":clipboard: Others:", 
+          "value": "[Heart Anthology](https://www.webtoons.com/en/heartwarming/heart-anthology/list?title_no=2191)", 
+          "inline": true
+          } 
+      ] 
+    } 
+  ] 
+}
