@@ -1,0 +1,83 @@
+{ 
+  "embeds":[
+    { 
+      "author": {
+        "name": "New Webtoon Updates!",
+        "url": "http://www.webtoons.com/",
+        "icon_url": "https://cdn.discordapp.com/attachments/342431713106067476/348906406084214795/webtoons.png"
+      },
+      "description": "Here are the Webtoons updates for today!",
+      "color":9893760,
+      "footer": {
+      "icon_url": "https://i.ya-webdesign.com/images/baguette-arrow-png-2.png",
+      "text": "Friday | Created by Baguette Sandwich, updated by Daniii"
+      },  
+      "fields":[
+        { 
+          "name":":herb: Slice of Life:",
+          "value":"[Bluechair](https://www.webtoons.com/en/slice-of-life/bluechair/list?title_no=199)\n[Murrz](https://www.webtoons.com/en/slice-of-life/murrz/list?title_no=1281)\n[Waffles & Pancakes](https://www.webtoons.com/en/slice-of-life/waffles-and-pancakes/list?title_no=1310)\n[Saphie:The One-Eyed Cat](https://www.webtoons.com/en/slice-of-life/saphie-one-eyed-cat/list?title_no=670)",
+          "inline":true
+        },
+        { 
+          "name":":performing_arts: Drama:",
+          "value":"[Spirit Fingers](https://www.webtoons.com/en/drama/spirit-fingers/list?title_no=1577)\n[Random Chat](https://www.webtoons.com/en/drama/random-chat/list?title_no=1669)\n[Dr. Frost (Hiatus)](https://www.webtoons.com/en/drama/dr-frost/list?title_no=371)",
+          "inline":true
+        },
+        { 
+         "name":":joy: Comedy:",
+         "value":"[Adventures of God](https://www.webtoons.com/en/comedy/adventures-of-god/list?title_no=853)\n[Bad Signs](https://www.webtoons.com/en/comedy/bad-signs/list?title_no=1623)\n[Just Pancakes](https://www.webtoons.com/en/comedy/just-pancakes/list?title_no=1651)\n[Unlucky is as Lucky does](https://www.webtoons.com/en/comedy/unlucky-is-as-lucky-does/list?title_no=1554)",
+         "inline": true
+        },
+        {
+         "name":":heart: Romance:",
+         "value": "[Midnight Poppy Land (Hiatus)](https://www.webtoons.com/en/romance/midnight-poppy-land/list?title_no=1798)\n[The Kiss Bet (Hiatus)](https://www.webtoons.com/en/romance/the-kiss-bet/list?title_no=1617)\n[CinnamonRoll](https://www.webtoons.com/en/romance/cinnamonroll/list?title_no=2226)\n[Death of a Popstar](https://www.webtoons.com/en/romance/death-of-a-pop-star/list?title_no=2273)",
+         "inline": true
+        },
+        { "name": ":sparkles: Fantasy:",
+          "value": "[Winter Moon (Hiatus)](https://www.webtoons.com/en/fantasy/winter-moon/list?title_no=1093)\n[Deor](https://www.webtoons.com/en/fantasy/deor/list?title_no=1663)\n[Your Throne](https://www.webtoons.com/en/fantasy/your-throne/list?title_no=2009)\n[How to Become a Dragon](https://www.webtoons.com/en/fantasy/how-to-become-a-dragon/list?title_no=1973)\n[The Croaking](https://www.webtoons.com/en/fantasy/the-croaking/list?title_no=1494)\n[Lone](https://www.webtoons.com/en/fantasy/lone/list?title_no=1929)\n[Strawberry Seafoam](https://www.webtoons.com/en/fantasy/strawberry-seafoam/list?title_no=1248)",
+          "inline": true
+        },
+        { 
+          "name": ":ghost: Supernatural:",
+          "value": "[Fluffy Boyfriend](https://www.webtoons.com/en/supernatural/fluffy-boyfriend/list?title_no=1164)\n[S.I.D](https://www.webtoons.com/en/supernatural/sid/list?title_no=497)",
+          "inline": true
+        },
+        { 
+          "name": ":knife: Thriller:",
+          "value": "[#Killstagram](https://www.webtoons.com/en/thriller/killstagram/list?title_no=1971)\n[Shiloh](https://www.webtoons.com/en/thriller/shiloh/list?title_no=1649)",
+          "inline": true
+        },
+        { 
+          "name": ":alien: Sci-fi:",
+          "value": "[Eggnoid](https://www.webtoons.com/en/sf/eggnoid/list?title_no=1229)\n[Gardians of the Video Game](https://www.webtoons.com/en/sf/guardians-of-the-video-game/list?title_no=368)\n[Denma](https://www.webtoons.com/en/sf/denma/list?title_no=921)\n[Ghost Bats](https://www.webtoons.com/en/mystery/dr-frost/list?title_no=371)",
+          "inline": true
+        },
+        { 
+          "name": ":scream: Horror:",
+          "value": "[Gremory Land (Hiatus)](https://www.webtoons.com/en/horror/gremoryland/list?title_no=1893)\n[Uriah (Hiatus)](https://www.webtoons.com/en/horror/uriah/list?title_no=1607)\n[Witch Creek Road](https://www.webtoons.com/en/horror/witch-creek-road/list?title_no=1453)",
+          "inline": true
+        },
+        { 
+          "name": ":soccer: Sports:",
+          "value": "[Skate!!! Fire 100](https://www.webtoons.com/en/sports/skate-fire-100/list?title_no=1674)",
+          "inline": true
+        },
+        { 
+          "name": ":sunglasses: Superhero:",
+          "value": "[Urban Animal (Hiatus)](https://www.webtoons.com/en/super-hero/urban-animal/list?title_no=1483)",
+          "inline": true
+        },
+        {
+          "name": ":question: Mystery",
+          "value": "[Dr. Frost](https://www.webtoons.com/en/mystery/dr-frost/list?title_no=371)",
+          "inline": true
+        },
+        { 
+          "name": ":clipboard: Other:",
+          "value": "[Heart Anthology](https://www.webtoons.com/en/heartwarming/heart-anthology/list?title_no=2191)",
+          "inline": true
+        }
+      ] 
+    } 
+  ] 
+}
