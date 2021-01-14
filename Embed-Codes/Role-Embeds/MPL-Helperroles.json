@@ -1,0 +1,24 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "color": 16776958,
+      "image": {
+        "url": "https://media.discordapp.net/attachments/736785387418157056/795457465436340224/MidnightpoppyHelper.png"
+      }
+    },
+    {
+      "color": 16776958,
+      "fields": [
+        {
+          "name": "> **Creator Roles**",
+          "value": ":pencil2: <@&730531384216649837>\n:paintbrush: <@&730531384246140930>\n:dizzy: <@&741410599346372719>\n:white_check_mark: <@&744366396120760420>"
+        },
+        {
+          "name": "> **Helper Roles**",
+          "value": ":books: <@&743334717763354644>\n:clipboard: <@&730531384216649836>"
+        }
+      ]
+    }
+  ]
+}
