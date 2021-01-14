@@ -1,0 +1,33 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "color": 16776958,
+      "author": {
+        "name": "Webtoon Hangout",
+        "url": "https://www.discord.gg/webtoon",
+        "icon_url": "https://cdn.discordapp.com/attachments/736785387418157056/795471233013121054/webtoon.gif"
+      },
+      "image": {
+        "url": "https://media.discordapp.net/attachments/736785387418157056/795452742898417684/LAST_LAST_ONE.png"
+      }
+    },
+    {
+      "color": 16776958,
+      "fields": [
+        {
+          "name": "> **Important Pings**",
+          "value": ":sparkles: <@&730531384216649835>\n:loudspeaker: <@&730531384220713049>\n:calendar_spiral: <@&730531384220713043>"
+        },
+        {
+          "name": "> **Event Pings**",
+          "value": ":tickets: <@&730531384220713047>\n:video_game: <@&730531384220713048>\n:tv: <@&730531384220713044>\n:microphone: <@&745750550477275287>"
+        },
+        {
+          "name": "> **Other pings**",
+          "value": ":boom: <@&739150818858631270>\n:wave: <@&755522825019719740>\n:coffin: <@&730531384220713041>\n:green_book: <@&730531384220713045>"
+        }
+      ]
+    }
+  ]
+}
