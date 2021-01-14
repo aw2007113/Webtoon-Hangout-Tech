@@ -1,0 +1,20 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "color": 16776958,
+      "image": {
+        "url": "https://media.discordapp.net/attachments/736785387418157056/795468441678774342/MDSPronounroles.png"
+      }
+    },
+    {
+      "color": 16776958,
+      "fields": [
+        {
+          "name": "> **Pronoun Roles**",
+          "value": ":heart: <@&742141994918477845>\n:sparkling_heart: <@&742141850718175345>\n:revolving_hearts: <@&742142135557423125>\n:heart_exclamation: <@&744349601842200576>"
+        }
+      ]
+    }
+  ]
+}
