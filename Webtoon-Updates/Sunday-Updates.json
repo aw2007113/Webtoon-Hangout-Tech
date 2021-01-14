@@ -1,0 +1,78 @@
+{ 
+  "embeds":[ 
+    { 
+      "author": { 
+        "name": "New Updates!", 
+        "url": "http://www.webtoons.com/", 
+        "icon_url": "https://cdn.discordapp.com/attachments/342431713106067476/348906406084214795/webtoons.png" 
+      }, 
+      "description": "Here are the Webtoons updates for today!", 
+      "color":9893760, 
+      "footer": { 
+        "icon_url": "https://pbs.twimg.com/media/EVGCx5HX0AAF5Hi.jpg", 
+        "text": "Sunday | Created by thetoastandpotato, updated by Daniii" 
+      },
+      "fields":[ 
+        { 
+          "name":":herb: Slice of Life:", 
+          "value":"[My Giant Nerd Boyfriend](https://www.webtoons.com/en/slice-of-life/my-giant-nerd-boyfriend/list?title_no=958)\n[As Per Usual](https://www.webtoons.com/en/slice-of-life/as-per-usual/list?title_no=599)", 
+          "inline":true 
+        }, 
+        { 
+          "name":":performing_arts: Drama:", 
+          "value":"[Heir's Game](https://www.webtoons.com/en/drama/heirs-game/list?title_no=1445)\n[The Four of Them](https://www.webtoons.com/en/drama/the-four-of-them/list?title_no=1524)\n[Midnight Rain](https://www.webtoons.com/en/drama/midnight-rain/list?title_no=1797)", 
+          "inline":true 
+        }, 
+        { 
+          "name":":clapper: Action:", 
+          "value":"[Code Adam (Hiatus)](https://www.webtoons.com/en/action/code-adam/list?title_no=1657)\n[microHUNTER](https://www.webtoons.com/en/action/microhunter/list?title_no=2320)", 
+          "inline":true 
+        }, 
+        { 
+          "name":":joy: Comedy:", 
+          "value":"[Cursed Princess Club](https://www.webtoons.com/en/comedy/cursed-princess-club/list?title_no=1537)\n[Toaster Dude](https://www.webtoons.com/en/comedy/toaster-dude/list?title_no=1983)\n[Safely Endangered](https://www.webtoons.com/en/comedy/safely-endangered/list?title_no=352)\n[DON'T HATE](https://www.webtoons.com/en/comedy/dont-hate/list?title_no=1574)\n[dustineractive](https://www.webtoons.com/en/comedy/dustinteractive/list?title_no=907)", 
+          "inline": true 
+        }, 
+        { 
+          "name":":heart: Romance:", 
+          "value": "[Subzero (Hiatus)](https://www.webtoons.com/en/romance/subzero/list?title_no=1468)\n[Edith (Hiatus)](https://www.webtoons.com/en/romance/edith/list?title_no=1536)\n[Nice to Meet You](https://www.webtoons.com/en/romance/nice-to-meet-you/list?title_no=2066)\n[Your Smile is a Trap](https://www.webtoons.com/en/romance/your-smile-is-a-trap/list?title_no=2052)\n[The Doctors are Out (Hiatus)](https://www.webtoons.com/en/romance/the-doctors-are-out/list?title_no=1910)\n[Marry Me!](https://www.webtoons.com/en/romance/marry-me/list?title_no=1951)\n[To Love Your Enemy](https://www.webtoons.com/en/romance/to-love-your-enemy/list?title_no=2114)\n[No Longer A Heroine!](https://www.webtoons.com/en/romance/no-longer-a-heroine/list?title_no=1264)", 
+          "inline": true 
+        }, 
+        { "name": ":sparkles: Fantasy:", 
+         "value": "[Trump](https://www.webtoons.com/en/fantasy/trump/list?title_no=84)\n[Tower of God (Hiatus)](http://www.webtoons.com/en/fantasy/tower-of-god/list?title_no=95)\n[Kubera](https://www.webtoons.com/en/fantasy/kubera/list?title_no=83)\n[EMPYREA](https://www.webtoons.com/en/fantasy/empyrea/list?title_no=1407)\n[The First Night With the Duke](https://www.webtoons.com/en/fantasy/the-first-night-with-the-duke/list?title_no=1267)", 
+         "inline": true 
+        }, 
+        { 
+         "name": ":knife: Thriller:", 
+          "value": "[It's Mine](https://www.webtoons.com/en/drama/its-mine/list?title_no=2010)", 
+          "inline": true 
+        }, 
+        { 
+          "name": ":ghost: Supernatural:", 
+         "value": "[UnHoly Blood](https://www.webtoons.com/en/supernatural/unholy-blood/list?title_no=1262)", 
+         "inline": true 
+         },
+        { 
+          "name": ":alien: Sci-fi:", 
+          "value": "[Room of Swords](https://www.webtoons.com/en/sf/room-of-swords/list?title_no=1261)", 
+          "inline": true 
+        }, 
+        { 
+          "name": ":ghost: Horror:", 
+         "value": "[Rot & Ruin](https://www.webtoons.com/en/horror/rot-and-ruin/list?title_no=1878)\n[Brain Anthology](https://www.webtoons.com/en/horror/brain-anthology/list?title_no=2207)", 
+         "inline": true 
+        }, 
+        { 
+          "name": ":soccer: Sports:", 
+         "value": "[The Boxer](https://www.webtoons.com/en/sports/the-boxer/list?title_no=2027)\n[Wind Breaker](https://www.webtoons.com/en/sports/wind-breaker/list?title_no=372)\n[Plum](https://www.webtoons.com/en/sports/plum/list?title_no=1605)", 
+         "inline": true 
+         },
+         { 
+           "name": ":clipboard: Others:", 
+         "value": "[WEBTOON now](https://www.webtoons.com/en/tiptoon/webtoon-now/list?title_no=2025)", 
+         "inline": true 
+         }
+      ] 
+    } 
+  ] 
+}
