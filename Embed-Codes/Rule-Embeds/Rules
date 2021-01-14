@@ -1,0 +1,116 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "color": 16776958,
+      "author": {
+        "name": "Webtoon Hangout",
+        "url": "https://www.discord.gg/webtoon",
+        "icon_url": "https://cdn.discordapp.com/attachments/730531386376585238/760531560872149062/image0.gif"
+      },
+      "image": {
+        "url": "https://cdn.discordapp.com/attachments/736785387418157056/795146254836695060/rulesbanner2.png"
+      }
+    },
+    {
+      "color": 16776958,
+      "fields": [
+        {
+          "name": "Follow the Discord Community TOS",
+          "value": "You can check those out here: https://dis.gd/guidelines. If you are under 13, we request you to leave until you turn of age. Mods will tempban you if you do not choose to leave.",
+          "inline": true
+        },
+        {
+          "name": "Keep it clean",
+          "value": "Inappropriate language such as excessive swearing, racial slurs, or any other form of verbal abuse will not be tolerated. Absolutely **no** NSFW."
+        },
+        {
+          "name": "Keep your username/avatar appropriate",
+          "value": "No vulgar language in your username, no depictions of nudity or gore should be in your avatar. Please keep them appropriate for everyone."
+        },
+        {
+          "name": "Be kind and respectful",
+          "value": "We can't list every rule here, or make a rule for every situation, but we can request of you to be respectful. Don't go out of your way to make someone feel uncomfortable. Don't attack someone, don't be inappropriate. Just have a good time, and be understanding with one another. Be your best self."
+        },
+        {
+          "name": "Keep the conversation and the commands in their respective channels.",
+          "value": "Please use the right channels for the appropriate topic. This is very important so that we don't have spoilers said for anyone. Webtoon specific channels are allowed to have spoilers **ONLY IF IT'S COVERED**. If you want to chat about the webtoon without spoilers, you are free to do so in <#738453870908276768>, <#730531385667747842> or the webtoon specific channel. You will be punished if you post a spoiler anywhere else. You will also be punished if you post a spoiler with out covering the text like ||this||"
+        },
+        {
+          "name": "No Advertising",
+          "value": "Advertising will not be tolerated - this includes any server links dropped in this server (including in <#732618737441570835>) or cold dming links without permission. If you want to advertise your server without getting banned, simply apply for a partnership"
+        },
+        {
+          "name": "Bot Commands",
+          "value": "Bot commands are not allowed in any channel except <#738469211298332692> or its designated channels like - <#730531385885982724> (mini commands such as AFK's and Tupper-bots go under the same rulings)."
+        },
+        {
+          "name": "No spam reacting to messages",
+          "value": "Repetition of reactions in multiple messages."
+        },
+        {
+          "name": "Bot abuse will not be tolerated",
+          "value": "Constant bot commands profusely used are considered literal bot abuse. Unnecessary commands are also considered bot abuse - using the suggestion bot to play around instead of an actual suggestion."
+        },
+        {
+          "name": "Members are not allowed to ping any roles.",
+          "value": "This is to avoid unnecessary mass pinging and role overuse. This means members are not allowed to ping @/everyone, @/here, or any role. Doing so will get you warned/muted. However, you are allowed to ping helper roles like <@&730531384216649836> or <@&730531384220713045> if needed."
+        },
+        {
+          "name": "No mini-modding",
+          "value": "Please do not try to \"pretend\" to be a staff member and tell others to follow rules or answer member's questions. Ping a mod, admin, or owner instead. An alternative is to open a ticket (<#743670667354046514>) or report someone (?report @user [reason]). This is to prevent the mods from missing a warn or mute protocol. Or you can apply for the staff instead."
+        }
+      ]
+    },
+    {
+      "color": 16776958,
+      "image": {
+        "url": "https://cdn.discordapp.com/attachments/736785387418157056/795320429933494283/Dicebannervc.png"
+      }
+    },
+    {
+      "color": 16776958,
+      "fields": [
+        {
+          "name": "No loud and/or sudden, ear rape, annoying, and/or high pitch noises",
+          "value": "This includes screaming, blowing, or any loud noises in the mic. You may only do this if given permission by all members the in VC. Reduce the amount of background noise, if possible."
+        },
+        {
+          "name": "No voice channel hopping",
+          "value": "Please don't spam connect/disconnect or move VCs."
+        },
+        {
+          "name": "Keep the bots in the right VCs",
+          "value": "No music of any kind in any channel with the exception of the Music VCs and Music Night VC"
+        },
+        {
+          "name": "Keep it clean",
+          "value": "The use of extreme profanity and NSFW content in voice chats are not allowed"
+        },
+        {
+          "name": "Be kind and no trolling",
+          "value": "No trolling, arguing, toxic behavior, and/or begging in the voice channels. Be kind."
+        },
+        {
+          "name": "Server rules",
+          "value": "Follow server rules while being in VC"
+        },
+        {
+          "name": "Don't abuse bot commands.",
+          "value": "This means spamming commands and/or songs. Share the bots with others or else you'll get bot privileges taken. Refrain from bringing in the music bots unless it's not in use."
+        },
+        {
+          "name": "Get stream permissions",
+          "value": "Before streaming, get permission from all the members in VC including a mod to make sure the content is appropriate and okay with everyone to watch. However, creators are allowed to stream art anytime they'd like."
+        },
+        {
+          "name": "Moderators",
+          "value": "**reserve the right to disconnect, mute, deafen, or move members to and from voice channels. They also have permission to take bot privileges away**"
+        }
+      ],
+      "footer": {
+        "text": "Please read through all the rules."
+      }
+    }
+  ]
+}
