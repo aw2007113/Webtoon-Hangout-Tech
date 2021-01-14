@@ -1,0 +1,19 @@
+{
+  "content": "Welcome to Webtoon Hangout! \nOnce you have read all the rules, react with the :wave: on this message to gain access to the rest of the server!",
+  "embeds": [
+    {
+      "title": "Where do you go after verifying?",
+      "description": "> <#730531384732549121>\nFor the list of channels\n\n> <#730531384732549120>\nFor some roles\n\n> <#730531385449906236>\nTo introduce yourself\n\n> <#738453870908276768> \nTo meet some other members",
+      "color": 16776958,
+      "fields": [
+        {
+          "name": "Feel free to explore!",
+          "value": "Enjoy your stay"
+        }
+      ],
+      "footer": {
+        "text": "Have questions? DM an online staff member and we'll assist you!"
+      }
+    }
+  ]
+}
