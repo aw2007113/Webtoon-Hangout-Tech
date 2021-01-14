@@ -1,0 +1,23 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "color": 16776958,
+      "image": {
+        "url": "https://media.discordapp.net/attachments/736785387418157056/795470527107956736/Dicemisroles.png"
+      }
+    },
+    {
+      "color": 16776958,
+      "fields": [
+        {
+          "name": "> **Miscellaneous Roles**",
+          "value": ":game_die: <@&792948405961621524>"
+        }
+      ],
+      "footer": {
+        "text": "Have questions? DM an online staff member!"
+      }
+    }
+  ]
+}
