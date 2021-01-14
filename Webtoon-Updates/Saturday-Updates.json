@@ -1,0 +1,74 @@
+{ 
+  "embeds":[ 
+    { 
+      "author": { 
+        "name": "New Webtoon Updates!", 
+        "url": "http://www.webtoons.com/", 
+        "icon_url": "https://cdn.discordapp.com/attachments/342431713106067476/348906406084214795/webtoons.png" 
+      }, 
+      "description": "Here are the Webtoons updates for today!", 
+      "color":9893760, 
+      "footer": { 
+        "icon_url": "https://icons.iconarchive.com/icons/google/noto-emoji-food-drink/512/32373-baguette-bread-icon.png", 
+        "text": "Saturday | Created by Baguette Sandwich, updated by ~Hanamika~" 
+      }, 
+      "fields":[
+       { 
+         "name":":herb: Slice of Life:", 
+         "value":"[Small World](https://www.webtoons.com/en/slice-of-life/small-world/list?title_no=1159)\n[Saphie: The One-Eyed Cat](http://www.webtoons.com/en/slice-of-life/saphie-one-eyed-cat/list?title_no=670)", 
+         "inline":true 
+       }, 
+       { 
+         "name":":performing_arts: Drama:", 
+        "value":"[Lookism](https://www.webtoons.com/en/drama/lookism/list?title_no=1049)\n[Ghost Theater](https://www.webtoons.com/en/drama/ghost-theater/list?title_no=1911)\n[American Road Trip](https://www.webtoons.com/en/drama/american-road-trip/list?title_no=2209)\n[The Shadow Prophet (Hiatus)](https://www.webtoons.com/en/drama/the-shadow-prophet/list?title_no=1881)\n[New Normal: Class 8](https://www.webtoons.com/en/drama/new-normal-class-8/list?title_no=100)", 
+        "inline":true 
+       },
+       { 
+         "name":":clapper: Action:", 
+         "value":"[Gosu](https://www.webtoons.com/en/action/gosu/list?title_no=1099)\n[Covenant](https://www.webtoons.com/en/action/covenant/list?title_no=2011)\n[If (Hiatus)](https://www.webtoons.com/en/action/if/list?title_no=1925)\n[Blood-Ink](https://www.webtoons.com/en/action/blood-ink/list?title_no=1490)", 
+         "inline":true 
+       }, 
+       { 
+         "name":":joy: Comedy:", 
+        "value":"[Everywhere and Nowhere](https://www.webtoons.com/en/comedy/everywhere-and-nowhere/list?title_no=1598)\n[Live with Yourself!](https://www.webtoons.com/en/comedy/live-with-yourself/list?title_no=919)\n[AXED](https://www.webtoons.com/en/comedy/axed/list?title_no=1558)\n[My Dictator Boyfriend](https://www.webtoons.com/en/comedy/my-dictator-boyfriend/list?title_no=1391)", 
+        "inline": true 
+       },
+       { 
+         "name":":heart: Romance:", 
+         "value": "[Lore Olympus](https://www.webtoons.com/en/romance/lore-olympus/list?title_no=1320)\n[Freaking Romance](https://www.webtoons.com/en/romance/freaking-romance/list?title_no=1467)\n[My Dear Cold-Blooded King](https://www.webtoons.com/en/romance/my-dear-cold-blooded-king/list?title_no=961)\n[Before We Knew It](https://www.webtoons.com/en/romance/before-we-knew-it/list?title_no=1972)\n[Blades of Furry](https://www.webtoons.com/en/romance/blades-of-furry/list?title_no=2383)", 
+         "inline": true 
+       },
+       { 
+         "name": ":sparkles: Fantasy:", 
+         "value": "[Lumine (Hiatus)](https://www.webtoons.com/en/fantasy/lumine/list?title_no=1022)\n[Castle Swimmer](https://www.webtoons.com/en/fantasy/castle-swimmer/list?title_no=1499)\n[The Remarried Empress](https://www.webtoons.com/en/fantasy/the-remarried-empress/list?title_no=2135)\n[Stray Souls](https://www.webtoons.com/en/fantasy/stray-souls/list?title_no=2018)", 
+         "inline": true 
+       }, 
+       { 
+         "name": ":ghost: Supernatural:", 
+         "value": "[I'm the Grim Reaper](https://www.webtoons.com/en/supernatural/im-the-grim-reaper/list?title_no=1697)\n[Mystical](https://www.webtoons.com/en/supernatural/mystical/list?title_no=2128)", 
+         "inline": true 
+       },
+       { 
+         "name": ":alien: Sci-fi:", 
+         "value": "[Seed (Hiatus)](https://www.webtoons.com/en/sf/seed/list?title_no=1480)\n[Denma](https://www.webtoons.com/en/sf/denma/list?title_no=921)\n[LoveBot](https://www.webtoons.com/en/sf/lovebot/list?title_no=2324)", 
+         "inline": true 
+       }, 
+       { 
+         "name": ":scream: Horror:", 
+         "value": "[Tales of the Unusual](https://www.webtoons.com/en/horror/tales-of-the-unusual/list?title_no=68)\n[Brain Anthology](https://www.webtoons.com/en/horror/brain-anthology/list?title_no=2207)", 
+         "inline": true 
+       },
+       { 
+         "name": ":sunglasses: Superhero:", 
+         "value": "[The Fever King](https://www.webtoons.com/en/super-hero/the-fever-king/list?title_no=1659)", 
+         "inline": true 
+       },
+       { 
+         "name": ":clipboard: Other:", 
+         "value": "[Heart Anthology](https://www.webtoons.com/en/heartwarming/heart-anthology/list?title_no=2191)", 
+         "inline": true 
+       }
+     ] 
+   } 
+ ] 
+}
