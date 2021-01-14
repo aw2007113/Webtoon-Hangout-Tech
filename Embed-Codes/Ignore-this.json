@@ -1,0 +1,47 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "title": "Rules",
+      "color": 7126268,
+      "fields": [
+        {
+          "name": "> Keep it clean",
+          "value": "No NSFW or obscene content. This includes text, images, or links featuring nudity, sex, hard violence, or other graphically disturbing content. No vulgar language in your username, no depictions of nudity or gore should be in your avatar. Please keep them appropriate for everyone."
+        },
+        {
+          "name": "> Be kind",
+          "value": "Treat everyone with respect. Absolutely no harassment, witch hunting, sexism, racism, homophobia, transphobia, or hate speech will be tolerated."
+        },
+        {
+          "name": "> No personal information",
+          "value": "Any personal information of any type will not be allowed to shared within this Discord server. This is a public domain server; please exercise caution when making nicknames for the server. For obvious reasons, do not share your pin number."
+        },
+        {
+          "name": "> Please report rule-breakers",
+          "value": "If you see something against the rules or something that makes you feel unsafe, let moderators know. We want this server to be a welcoming space!"
+        },
+        {
+          "name": "> No inviting others",
+          "value": "Do not invite anyone into this sever who is **NOT** part of the competition. This includes alternate accounts. It's not fair to others and the alts *will* be banned."
+        },
+        {
+          "name": "> No personal conversations",
+          "value": "Refrain from having private conversations outside of the Discord server."
+        }
+      ],
+      "author": {
+        "name": "Explorer Hop",
+        "url": "https://www.explorerhop.com",
+        "icon_url": "https://cdn.discordapp.com/attachments/797227349392621638/797260147009388594/Final_Logo_220x.webp"
+      },
+      "footer": {
+        "text": "Have questions? DM an online moderator!"
+      }
+    },
+    {
+      "description": "**DISCLAIMER**\nExplorer Hop is not responsible for anything that happens within or outside of this Discord server. The mods are NOT allowed to give advice and must remain impartial throughout this competition.\n\nIf this Discord ends up being a hassle, it will be shut down.",
+      "color": 16535375
+    }
+  ]
+}
