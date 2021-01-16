@@ -1,0 +1,85 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "color": 9790719,
+      "author": {
+        "name": "Your Throne Fan Group",
+        "url": "https://discord.gg/r4SEC8RJ9H",
+        "icon_url": "https://cdn.discordapp.com/attachments/724427017919004683/799811452243542046/Screen_Shot_2021-01-15_at_5.22.33_PM.png"
+      },
+      "image": {
+        "url": "https://media.discordapp.net/attachments/787011685034623006/799328103607959562/image0.png"
+      }
+    },
+    {
+      "title": "<:chick_celebrate:786605090395258902> Welcome to the Your Throne Fan Group! <:helio_happy:786086882744074261>",
+      "description": "**> Please read through the rules that will be posted below. **\nOnly after you react to the message (look below :point_down:), will you have access to most channels.",
+      "color": 9790719
+    },
+    {
+      "color": 9790719,
+      "fields": [
+        {
+          "name": "**> No NSFW**",
+          "value": "This is a SFW server. Please keep any and all posts pg/pg-13. Any NSFW posts will be deleted and the sender of the post will be punished accordingly. This includes role-playing. All roleplay must be SFW."
+        },
+        {
+          "name": "**> Keep chatter in their relevant channels.**",
+          "value": "For example, don’t use the Mudae bot in the truth or dare channel. <#785880506226966560> is a multipurpose channel. Chatter, bot commands, and random spam are allowed in there, as long as they align with the server rules. If you’re not sure where to send a message, <#785880506226966560> may be your best bet. Also, please refrain from posting spoilers in <#724426671993651210>. Anything not mentioned in the non-fast pass versions of the official translation is considered a spoiler. Don’t ruin the story for others! If you must post spoilers, go to <#786380391242006538>. Otherwise, mark text as a spoiler by inserting two |’s on each side the marked text will appear like ||this||."
+        },
+        {
+          "name": "**> No incivility**",
+          "value": "This one is pretty self-explanatory. No racism, sexism, or other discriminatory and/or prejudiced behavior is allowed. Any instances of this will result in the appropriate punishment."
+        },
+        {
+          "name": "**> Inappropriate usernames, profile pictures, and/or statuses will not be tolerated. **",
+          "value": "No vulgar or offensive usernames or nicknames are allowed. This also applies to statuses. No profiles pictures depicting any violence or gore is allowed."
+        },
+        {
+          "name": "**> Be Kind and Respectful. **",
+          "value": "Do not disrespect members. Do not deliberately make someone feel uncomfortable. If a person has expressed their discomfort with the topic then please, move on."
+        },
+        {
+          "name": "**> Use appropriate language.**",
+          "value": "Please do not swear excessively. If a staff member tells you to stop, you stop. Be mindful of what you say, as the use of some language may result in an auto-warn."
+        },
+        {
+          "name": "**> If you’re having an issue, report it.**",
+          "value": "If you have a question go to <#785878155847532554> and hopefully we can answer it. If there is an issue of any kind please ping an admin or moderator and they will handle it. If this issue is reoccurring please dm an admin and they will handle the situation accordingly."
+        },
+        {
+          "name": "**> Support the official release of “Your Throne” on Webtoon**",
+          "value": "Because fan translations do not support the author of Your Throne, it harms the server. As reading fan translations are discouraged, do not send any fan translation links within/outside of the server."
+        }
+      ],
+      "footer": {
+        "text": "The text above displays the rules for this server. Any obstruction of these rules will result in punishment."
+      }
+    },
+    {
+      "title": "Offense and Punishment List",
+      "description": "<:psyche_wut:786357758089101343> **Class 1 Offense** = verbal warning\n<:medea_what:786250072270307360> **Class 2 Offense** = temporary mute (duration depends on the situation and severity of the said offense)\n<:psyche_ew:786328993888206870> **Class 3 Offense** = warn (these will stay on your record unless removed by an admin)\n<:zoom:786290518199107584> **Class 4 Offense** = kicked from the server. A four-hour mute will be implemented upon return of the member. \n<:psyche_mad:786358109073309750> **Class 5 Offense** = temporary ban.\n<:psyche_glare:786382005344141322> **Class 6 Offense** = permanent ban.",
+      "color": 9790719,
+      "footer": {
+        "text": "The offenses above are listed in order of least severe to most severe."
+      }
+    },
+    {
+      "title": "Thank you for joining this server!",
+      "description": "We hope you enjoy it here <:chick_celebrate:786605090395258902>",
+      "color": 9790719,
+      "fields": [
+        {
+          "name": "**> Reacting to this message with the emoji below means you have read and understand these rules.**",
+          "value": "Only when you react to this message with a :thumbsup: will you gain access to the rest of the channels."
+        }
+      ],
+      "footer": {
+        "text": "Have questions? | DM an online staff member :)",
+        "icon_url": "https://media.discordapp.net/attachments/724427017919004683/799813385218424863/image0.jpg"
+      },
+      "timestamp": "2021-01-15T08:00:00.000Z"
+    }
+  ]
+}
