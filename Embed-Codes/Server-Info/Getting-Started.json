@@ -1,0 +1,47 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "color": 16776958,
+      "author": {
+        "name": "Webtoon Hangout",
+        "url": "https://discord.gg/evY5jMH",
+        "icon_url": "https://media.discordapp.net/attachments/730531386376585238/760531560872149062/image0.gif"
+      },
+      "image": {
+        "url": "https://cdn.discordapp.com/attachments/730531386376585238/801315561116139520/Serverinfo.png"
+      }
+    },
+    {
+      "title": "**⊱ ────── { Welcome to Webtoon Hangout! <:bearwave:762345491664076880>**",
+      "description": "This is a server where creators and readers alike can make friends and talk about their favorite comics. We have an extremely loving community where users can ask for advice, grow their platform, share their talents, and so much more! Webtoon Hangout actively supports its creators to help them grow their platform and as artists or writers. We offer positive mental health challenges along with fun daily riddles and games. We also love to showcase our members' unique abilities! \nThis server includes seasonal server themes, server-wide events, and so much more! We hope you enjoy your stay and ping staff members for help or ask a question in <#735578132492451941>. \n\n**> Webtoon on, dear readers!**",
+      "color": 16776958
+    },
+    {
+      "title": "**⊱ ────── { Getting Started**",
+      "color": 16776958,
+      "fields": [
+        {
+          "name": "> Verification",
+          "value": "After reading the rules (<#730531384434753580>), to verify, all you need to do is react with 👋 on this message: https://discord.com/channels/730531384216649828/730531384434753580/794651056188817449 \nVerification is in place to make sure you’ve read all the rules.\n[<#730531384434753580>]"
+        },
+        {
+          "name": "> React for Role",
+          "value": "React for role is the place to get roles!  That includes special ping roles, helper roles, and genre roles that unlock categories for genre-specific webtoon channels! To get a role, simply react with the emote on the message that corresponds with the role name in the message. For more information on the roles and what they do, go to [enter message link of le role section].\n[<#730531384732549120>]"
+        },
+        {
+          "name": "> Server Directory",
+          "value": "The server directory is the channel you’re looking at right now! It provides all the useful information that you need to know about this server. This channel also has a list of all the channels within the server and provides some descriptions about the channel. It’s there to help you navigate throughout this server.\n[<#730531384732549121>]"
+        },
+        {
+          "name": "> Introductions",
+          "value": "Introductions are for you to introduce yourself and for others to learn more about you! You may use any format you like and feel free to share as much or as little as you wish, but keep in mind that everyone can see this channel. \n[<#730531385449906236>]"
+        },
+        {
+          "name": "Chatroom",
+          "value": "Chatroom is a place for all discussion and the most-used channel on the server. It’s a place to discuss your favorite topics or just to say hello to the other members!\n[<#738453870908276768>]"
+        }
+      ]
+    }
+  ]
+}
