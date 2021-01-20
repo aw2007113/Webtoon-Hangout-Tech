@@ -1,0 +1,28 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "title": "**⊱ ────── { The Staff Committee**",
+      "description": "In Webtoon Hangout, we believe in running a safe and unbiased community to ensure fairness for our members. Our goal is to improve the server and make this community a safe, welcoming, and fun community for everyone, webtoon readers or not. We also want to provide support to the webtoon creators in this server as much as possible to help them grow their webtoon. In this section you will find our staff members, requirements to apply, how to apply, our channels, etc.",
+      "color": 16776958,
+      "fields": [
+        {
+          "name": "> Staff Members",
+          "value": "Get to know us!\n[<#730531385235734599>]"
+        },
+        {
+          "name": "> Staff Requirements",
+          "value": "__Chat/VC Moderator__\n- You are expected to be active \n- You need to moderate the chats and the VCs to make sure everyone is following the rules\n- Only Chat/VC mods are allowed to warn, mute, kick, ban. \n- Make sure you are giving the correct punishments.\n__Staff__\n- You are going to be taking care of the suggestions and discussing with your team to add things to the server.\n- You will be advertising daily\n- You will be testing even if you don't have enough roles\n- You will be helping out on things in the server like adding channels, editing channels, making announcements, etc.\n- Always contact your supervisor, owners, or admin before doing anything. If none of the people I suggested are online, we give you permission to implement that idea.\n[<#735158535499022456>]"
+        },
+        {
+          "name": "> Staff Positions",
+          "value": "➵ ＊•̩̩͙✩•̩̩͙˚　Owner　˚•̩̩͙✩•̩̩͙˚＊ ➵\n➵ ＊•̩̩͙✩•̩̩͙˚　Admin　˚•̩̩͙✩•̩̩͙˚＊ ➵ \n➵ ＊•̩̩͙✩•̩̩͙˚　Staff/Mod/Host/Tech Supervisor　˚•̩̩͙✩•̩̩͙˚＊ \n➵ ＊•̩̩͙✩•̩̩͙˚　Tech Support/Chat Mod/Staff/Event Host　˚•̩̩͙✩•̩̩͙˚＊ \n➵ ＊•̩̩͙✩•̩̩͙˚　Recruit　˚•̩̩͙✩•̩̩͙˚＊ \n➵ ＊•̩̩͙✩•̩̩͙˚　Staff Committee　˚•̩̩͙✩•̩̩͙˚＊ \n\nThose are the positions in order. \n\n➙ Owner has the highest authority and oversees the entire staff, including Admin and supervisors. \n➙ Admin has the second highest authority and watches over the supervisors. \n➙ There are supervisors in each position. You should always consult with your supervisor before coming to Admin or Owner. \n➙ Positions are Tech Support, Chat Mod, Staff, Event Host. They are part of the staff committee and help run the server. \n➙ Recruits are staff in training. They have one week to experience the positions and after one week, they will select positions. \n➙ Staff Committee doesn't have a position, they can only see the STAFF COMMON AREA category."
+        },
+        {
+          "name": "> How Do You Apply?",
+          "value": "Look in <#735158535499022456>, it'll say if applications are opened or closed."
+        }
+      ]
+    }
+  ]
+}
