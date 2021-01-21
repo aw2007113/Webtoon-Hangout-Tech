@@ -1,0 +1,20 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "title": "**⊱ ────── { Webtoon Creators**",
+      "description": "If you’re a webtoon creator, congratulations, and we wish you the best on your journey! \n\nTo get the creator role, post your webtoon in <#732618737441570835> and an online staff member will give you the role and a channel! \n\nIn webtoon hangout, we actively support all webtoon creators. To do so, not only do we give a role and a channel, we promote creators weekly with Canvas of the Week!",
+      "color": 16776958,
+      "fields": [
+        {
+          "name": "> Canvas of the Week",
+          "value": "**Canvas of the Week** is where we pick a random creator in the server and we post their webtoon on our Instagram and move their channel higher. \n[<#765292554609623060>]"
+        },
+        {
+          "name": "> How do you sign up?",
+          "value": "To signup, DM <@370323093224292354>, and she will DM you back if you’re chosen for the week. You’ll be given a few days to give her your cover/sketch/art that will be posted on Instagram!"
+        }
+      ]
+    }
+  ]
+}
