@@ -1,0 +1,31 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "title": "**⊱ ────── { How to Support Webtoon Hangout**",
+      "color": 16776958,
+      "fields": [
+        {
+          "name": "> Instagram",
+          "value": "[Follow us on Instagram!](https://www.instagram.com/webtoon_hangout/?hl=en) We post creator of the week on our Instagram."
+        },
+        {
+          "name": "> Disboard",
+          "value": "`!d bump` to bump our server! Please leave a rating and a comment [here!](https://disboard.org/server/730531384216649828?__cf_chl_jschl_tk__=14be47052f2954c7c3bfede106b235348e0267d0-1611201223-0-AadwM6REQLA4TOMZhWxJM7-443zwAYGHxTN8q5sgWSpHeaA_J1qyT2xQbCASmE9pAWDx584g5QtL3Tby2kHT7urUD6yLZTdbJaEZjIP2Lp6V-paNlTQpBN2m-H3MeJRobt9PDTnSRi8NY3OiIM0ZG3-Mxq6Pye7Kwxk8xwacROYCo8Im9LlDN3suRSo0647_osUqgvmcgHexvVx2TH4o9g9ulBiYTfLVneW4j2e7nCACQkjBEgqO4c4KwcanOxm_kJ8hgfwQhbERhK7Y_qpg1uKmq-zkOnB7mCKhTaUcm8F85TJPzG-ARnSQySl5vobSQsqF47SaXLyYL6ZJKx0ZOs858jOJs-UUig0s9Bn0AXYwggW_FVJ1UN-j0RmOr5Fxsu_V2TTOkqG9csUGSX2xOz8)"
+        },
+        {
+          "name": "> DiscordServers",
+          "value": "`|bump` to bump our server!"
+        },
+        {
+          "name": "> Top.gg",
+          "value": "Please vote for our server [here!](https://top.gg/servers/730531384216649828) Make sure to leave a review and rate it!"
+        },
+        {
+          "name": "> Reddit",
+          "value": "Coming soon!"
+        }
+      ]
+    }
+  ]
+}
