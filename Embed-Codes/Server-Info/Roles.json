@@ -1,0 +1,96 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "title": "**⊱ ────── Roles**",
+      "description": "[<#730531384732549120>]",
+      "color": 16776958,
+      "fields": [
+        {
+          "name": "> Birthday Ping",
+          "value": "The Birthday ping lets you know when it is someone's birthday ping according to the timezone set. <#730531385005047809> is where it'll be pinged; make sure to check pins to see how to set your own birthday. \n\n[<@&730531384216649835>]"
+        },
+        {
+          "name": "> Reader Ping",
+          "value": "The Reader ping is for people who want to read over other's work (ex. poems, chapters) and give opinions and rate it. Webtoon creators can also ping this role for people to rate the creator's webtoon, or so they can promote their webtoon. \n\n[<@&730531384220713045>]"
+        },
+        {
+          "name": "> Announcement Ping",
+          "value": "The Announcement ping is mainly for important announcements or anything else in that category. \n\n[<@&730531384220713049>]"
+        },
+        {
+          "name": "> Webtoon Updates Ping",
+          "value": "The Webtoon Update ping is pinged whenever webtoons update. We have a feature called daily webtoon updates that sends a message into <#731845822227939338>, letting you know every day which webtoons update.\n\n[<@&730531384220713043>]"
+        },
+        {
+          "name": "> Movie Night, Music Night, Game night, Events Pings",
+          "value": "These pings are for weekend events, They're pinged whenever it's a game/movie/music event. Sometimes the event ping is for webtoon events or challenges. Whenever it's an event day, there will be vote for what you'll be doing for the event, such as picking a movie, or what game to play. \n\n[<@&730531384220713044>, <@&745750550477275287>, <@&730531384220713048>, <@&730531384220713047>]"
+        },
+        {
+          "name": "> Dead Chat Ping",
+          "value": "The Dead Chat Ping is used whenever the chatroom isn't active, and many people aren't talking. Only staff members can use this ping, and anyone else who uses the Dead Chat Ping without permission will be punished.\n\n[<@&730531384220713041>]"
+        },
+        {
+          "name": "> Welcomer Ping",
+          "value": "The Welcomers Ping is pinged whenever someone joins the server, it's pinged to let people know that someone joined, so that they can welcome them. \n\n[<@&755522825019719740>]"
+        },
+        {
+          "name": "> Pronoun Roles",
+          "value": "The Pronoun Roles are used so that people know what to call you, instead of guessing your gender, it makes it easier for others and you.\n\n[<@&742141994918477845>, <@&742141850718175345>, <@&742142135557423125>, <@&744349601842200576>]"
+        },
+        {
+          "name": "> Genre Roles",
+          "value": "When you join the server, all webtoon channels will be hidden. To unhide them, go to <#730531384732549120> and react to the specific genre categories that you want to unhide. You will then be able to access the webtoon channels under that category or genre. Have fun discussing your favorite webtoons :)"
+        },
+        {
+          "name": "> Partners",
+          "value": "To obtain the Partner Role, you must be partnered with the server, to do so, go to <#743153088403341372> and read the pins for the partnership requirements. \n\n[<@&730531384254398600>]"
+        },
+        {
+          "name": "> Game Night Winner",
+          "value": "The game night role is something you get if you win during game night, it's merely something to show off, and you get bragging rights along with it✨. The role lasts one week. \n\n[<@&730531384246140935>]"
+        },
+        {
+          "name": "> Voters",
+          "value": "The Voters role is for people who vote for the server on top.gg (https://top.gg/servers/730531384216649828) When you vote, it gives you the role automatically. \n\n[<@&752313236262748231>]"
+        },
+        {
+          "name": "> Server Booster",
+          "value": "The Server Booster role is for people who boost the server. For the full list of boost perks, go to <#738845086863065099>. \n\n[<@&736988985389219920>]"
+        },
+        {
+          "name": "> Happy Birthday",
+          "value": "Happy Birthday role is for the people who have their birthday that day, they get the role so people know to wish them a happy birthday.\n\n[<@&737815659865571368>]"
+        },
+        {
+          "name": "> Therapist",
+          "value": "The Therapist role is for people who think that they can comfort and support the ones who need it most, mainly used in <#732036368007692339>, when people need advice or assistance, or for people who just need to vent. The Therapist role is pinged by someone who is in need of comfort, advice, etc. Whenever it's pinged, someone with the Therapist role, or anyone else may come and assist you.\n\n[<@&730531384216649836>]"
+        },
+        {
+          "name": "> Art Critic",
+          "value": "The Art Critic is for people who rate, judge, and like to express how they feel about certain art. It's mainly used in <#733731493762957403> when someone wants somebody else to tell them the flaws or imperfections of their artwork.\n\n[<@&741410599346372719>]"
+        },
+        {
+          "name": "> Editor",
+          "value": "The Editor role is for people who'd like to edit art, written pieces, etc. They can revise it to the way they see fit. It's also used in <#753791338897604658> if someone wants an Editor to help them.\n\n[<@&744366396120760420>]"
+        },
+        {
+          "name": "> Tutor",
+          "value": "The Tutor role is for the people who have a learning experience with a certain subject and can help you with problems.\n\n[<@&743334717763354644>]"
+        },
+        {
+          "name": "> Artist",
+          "value": "The Artist role is for the people who are artists and post their art in <#733731493762957403>. It's also used in <#753791338897604658> when someone needs an artist to collaborate with.\n\n[<@&730531384246140930>]"
+        },
+        {
+          "name": "> Writer",
+          "value": "The Writer role is for people who write and show it off in <#731846457455411239>. It's also to let people know that they're a writer. It can be used in <#753791338897604658> too.\n\n[<@&730531384216649837>]"
+        },
+        {
+          "name": "> Creator",
+          "value": "The Creator role is for people who make webtoons. Refer to the creator section of the server info for more information.\n\n[<@&730531384246140932>]"
+        }
+      ]
+    }
+  ]
+}
