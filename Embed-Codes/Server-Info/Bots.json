@@ -1,0 +1,129 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "title": "**⊱ ────── { Bots**",
+      "description": "At Webtoon Hangout, we have a variety of bots for you to enjoy!",
+      "color": 16776958,
+      "fields": [
+        {
+          "name": "**__Important Bots__**",
+          "value": "•"
+        },
+        {
+          "name": "> Arcane",
+          "value": "Prefix: `!`\nWhat it does: We use Arcane for leveling.\nHelpful commands: `!level` `!leaderboard`"
+        },
+        {
+          "name": "> Carl-bot",
+          "value": "Prefix: `?`\nWhat it does: We use Carl-bot for moderation"
+        },
+        {
+          "name": "> Plasma",
+          "value": "Prefix: `.`\nWhat it does: We use Plasma to track invites (who invited who)"
+        },
+        {
+          "name": "> YAGPDB.xyz",
+          "value": "Prefix: `@`\nWhat it does: Yagpdb is an all-purpose bot. We use it for test requests, tickets, webtoon statuses, and more. \nHelpful commands: `@request` `@status`"
+        },
+        {
+          "name": "> Statbot",
+          "value": "Prefix: `s?`\nWhat it does: We use statbot for member counts, goals, and others"
+        },
+        {
+          "name": "**__Advertising Bots__**",
+          "value": "•"
+        },
+        {
+          "name": "> Disboard",
+          "value": "Prefix: `d!`\n`!d bump` to bump our server!"
+        },
+        {
+          "name": "> DiscordServers",
+          "value": "Prefix: `|`\n`|bump` to bump our server!"
+        },
+        {
+          "name": "> DSL",
+          "value": "Prefix: None"
+        },
+        {
+          "name": "**__Fun Bots__**",
+          "value": "•"
+        },
+        {
+          "name": "> Anigame",
+          "value": "Prefix: `.`\nWhat it does: AniGame is an enjoyable game that lets you collect unique anime cards and battle on floors and locations. \nHelpful Commands: `.start` `.basics` `.claim [card number]` `.stam` `.battle` `.location` `.floor`"
+        },
+        {
+          "name": "> Dank Memer",
+          "value": "Prefix: `pls`\nWhat it does: Dank Memer is a currency bot that you can play with.\nHelpful Commands: `pls work` `pls search` `pls deposit all` `pls hourly` `pls daily` `pls beg`"
+        },
+        {
+          "name": "> Epic RPG",
+          "value": "Prefix: `rpg`\nWhat it does: Epic RPG allows you to level up and collect materials. Then, you can try to beat dungeon bosses to unlock new commands and features.\nHelpful Commands: `rpg start` `rpg help` `rpg hunt` `rpg adventure`"
+        },
+        {
+          "name": "> MarriageBot",
+          "value": "Prefix: `m.`\nWhat it does: MarriageBot allows two users to get married and create a wonderful family together. \nHelpful Commands: `m.tree` `m.adopt <@user>` `m.disown <@user>` `m.divorce < @user>` `m.runaway` `m.partner` `m.children`"
+        },
+        {
+          "name": "> Mudae",
+          "value": "Prefix: `$`\nWhat it does: Mudae lets users claim and customize anime, manga, comics, and video game characters to add to your harem. It also includes Pokémon to catch. \nHelpful Commands: `$pokemon` `$pokedex` `$waifu` `$husbando` `$marry` `$wg` `$wa`"
+        },
+        {
+          "name": "> Nekobot",
+          "value": "Prefix: `n!`\nWhat it does: NekoBoth has many entertaining activities to try, moderation, and utility commands.      \nHelpful Commands: `n!register` `n!profile` `n!divorce <@user>` `n!marry <@user>` `n!daily`"
+        },
+        {
+          "name": "> OwO",
+          "value": "Prefix:` OwO`\nWhat it does: OwO's primary commands are the ones regarding animals, which you can hunt down, sell, sacrifice, and battle against others! OwO also has many emotes and actions you can do!\nHelpful Commands: `OwO daily` `OwO quest` `OwO shop` `OwO buy` `OwO hunt` `OwO battle` `OwO inventory` `OwO translate`"
+        },
+        {
+          "name": "> UNO",
+          "value": "Prefix: `uno`\nWhat it does: The Uno bot lets you and your friends play Uno within text-channels. It's usually used for game nights.\nHelpful Commands: `uno rules` `uno!` `uno join` `uno quit` `uno start` `uno play <color> <value>` `uno pickup` `uno callout`"
+        },
+        {
+          "name": "**__Music Bots__**",
+          "value": "•"
+        },
+        {
+          "name": "> Hydra",
+          "value": "Prefix: `^`\nWhat it does: Hydra lets you put in your very own music to listen to and saves it all into a playlist.\nHelpful Commands: `^play <song name>` `^search` `^skip` `^pause` `^queue` `^lyrics`"
+        },
+        {
+          "name": "> Octave",
+          "value": "Prefix: `o*`\nWhat it does: Octave is a bot that plays music and can queue any song you’d like. All your songs will be put into a playlist for you to vibe to.\nHelpful Commands: `o*play <song name>` `o*pause` `o*nowplaying` `o*clearqueue` `o*lyrics`"
+        },
+        {
+          "name": "> Rythm",
+          "value": "Prefix: `!`\nWhat it does: Rythm plays any song there is out there. (No NSFW songs will be allowed here though.) Rythm lets you listen to music with others or by yourself. \nHelpful Commands: `!play <song name>` `!pause` `!queue` `!np` `!leave` `!lyrics` `!skip`"
+        },
+        {
+          "name": "> Groovy",
+          "value": "Prefix: `-`\nGroovy is a music bot that plays music in high-quality and can play any song you choose.\nHelpful Commands: `-join` `-play <song name>` `-skip` `-queue` `-pause` `-leave`"
+        }
+      ]
+    },
+    {
+      "color": 16776958,
+      "fields": [
+        {
+          "name": "**__Other Bots__**",
+          "value": "•"
+        },
+        {
+          "name": "> Birthday Bot",
+          "value": "Prefix: `bday`\nWhat it does: It sets your birthday, and helps you celebrate it with an announcement and a role\nHelpful Commands: `bday set`"
+        },
+        {
+          "name": "> Dyno",
+          "value": "Prefix: `_`\nWhat it does: It helps with staff commands and also can set AFKs.\nHelpful Commands: `_afk <reason>`"
+        },
+        {
+          "name": "> Giveaway Bot",
+          "value": "Prefix: `!g`\nWhat it does: Hosts giveaways\nHelpful commands: `!gstart <days/hours/min> <winners> <prize>`"
+        }
+      ]
+    }
+  ]
+}
