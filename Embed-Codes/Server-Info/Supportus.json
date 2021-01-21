@@ -25,7 +25,10 @@
           "name": "> Reddit",
           "value": "Coming soon!"
         }
-      ]
+      ],
+      "footer": {
+        "text": "If you read it all, you're amazing."
+      }
     }
   ]
 }
