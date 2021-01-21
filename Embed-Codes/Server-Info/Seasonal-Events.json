@@ -1,0 +1,20 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "title": "**⊱ ────── { Seasonal Server Themes**",
+      "description": "Seasonal Server Themes are what make the server look different each season or holiday. If it was winter, the server icon might be Christmas colors or winter-themed. Some of the channel names might have snowmen or Santa Claus.",
+      "color": 16776958,
+      "fields": [
+        {
+          "name": "> When does it occur?",
+          "value": "The Seasonal Themes happen when it's coming to be a holiday or specific season."
+        },
+        {
+          "name": "> Seasonal Events and Games",
+          "value": "Examples of Halloween themed events: \n- Halloween movies for Movie Night\n- Spooky Music for Music Night\n- Halloween Bot example: Trick'cord Treat event"
+        }
+      ]
+    }
+  ]
+}
