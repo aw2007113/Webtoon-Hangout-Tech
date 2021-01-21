@@ -1,0 +1,20 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "title": "**⊱ ────── { Test Roles and Achievements**",
+      "description": "If you want to test your knowledge and memory about different webtoons that you've read, you can take a test on them. A tester from our server will contact you through DMs when you request a test and will test you on the webtoon that you chose to be tested on. \n[<#732662492177629325>]",
+      "color": 16776958,
+      "fields": [
+        {
+          "name": "> Achievements",
+          "value": "There are achievements that you can achieve depending on how many tests you've passed. They are:\n__1 test passed__ - **The New Kid**\n__3 tests passed__ - **Webnoob**\n__5 tests passed__ - **Peasant**\n__10 tests passed__ - **Daily Reader**\n__15 tests passed__ - **Tester (You can become a tester and test people)**\n__20 tests passed__ - **Know-it-all**\n__30 tests passed__ - **Webtoon Obsessed**\n__40 tests passed__ - **Webtoon Fanatic**\n__50 tests passed__ - **Webtoon God**"
+        },
+        {
+          "name": "> How to get tested",
+          "value": "You can apply for a test in<#730531385235734591> if you follow the given instructions. For more information on tests, make sure you check <#732662492177629325>."
+        }
+      ]
+    }
+  ]
+}
