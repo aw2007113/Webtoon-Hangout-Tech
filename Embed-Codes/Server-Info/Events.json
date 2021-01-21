@@ -1,0 +1,31 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "title": "**⊱ ────── { Seasonal Server Themes and Events**",
+      "color": 16776958,
+      "fields": [
+        {
+          "name": "> Music Night",
+          "value": "This event is a great way for us to chill & vibe and just enjoy the music. Music Night occurs once a week, each week you have different options of what’d you’d like to do during music night. We offer karaoke and Music quizzes to test your knowledge of a variety of music genres. Our hosts will announce when music night will begin; you will need to join VC in order to participate. If there’s any certain music you’d like us to chill with, you can always let your host know. \n\n[<#745748739905421382>]"
+        },
+        {
+          "name": "> Game Night",
+          "value": "This is an event that revolves around games. Game night occurs once a week, each week you have different choices of games offered that have not been played before. The games are fun and unique with some of our twists. Our hosts will announce when game night will begin; rules will be given prior to beginning. If there are any certain games you’d like us to host, or any questions & concerns you can always suggest in <#730531385235734591> and our hosts will look into them. \n\n[<#738478128367665255>]"
+        },
+        {
+          "name": "> Movie Night",
+          "value": "This is an event that revolves around films. Movie Night occurs once a week, each week you have different options of movies or genres given to choose from. Depending on what theme your host offers, you can choose a variety of movie options. Our host will announce when movie night will begin; a room link will be given prior to beginning. Instructions will be given beforehand by your host. If there are any certain movies you’d like us to stream, or any questions & concerns you can always suggest in <#730531385235734591>  and our hosts will look into them. \n\n[<#730531384732549127>]"
+        },
+        {
+          "name": "> Event Schedule",
+          "value": "__Friday__ - Music Night \n__Saturday__ - Game Night \n__Sunday__ - Movie Night"
+        },
+        {
+          "name": "> Seasonal Events and Games",
+          "value": "Seasonal Server Themes are what make the server look different each season or holiday. If it was winter, the server icon might be Christmas colors or winter-themed. Some of the channel names might have snowmen or Santa Claus.\n\nExamples of Halloween themed events: \n- Halloween movies for Movie Night\n- Spooky Music for Music Night\n- Halloween Bot example: Trick'cord Treat event\n\nThe Seasonal Themes happen when it's coming to be a holiday or specific season."
+        }
+      ]
+    }
+  ]
+}
