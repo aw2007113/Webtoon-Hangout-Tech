@@ -1,0 +1,29 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "color": 16776958,
+      "image": {
+        "url": "https://cdn.discordapp.com/attachments/736785387418157056/806194870468608070/Webtoontests.png"
+      }
+    },
+    {
+      "description": "> You can take a test once ur all caught up on a webtoon, and you’ll be tested by one of our testers. \n\n> A test consists of three short questions related to the webtoon you’re being tested on, going in order from the beginning of the story to the middle, and then the end (or latest chapter, if the webtoon has not yet been completed). If you answer a question incorrectly, we’ll add another question to make up for it. Answer that one wrong, and we’ll add another question with a maximum of five. \n\n> At the moment, there are more than 50 roles you can apply to be tested for, but we’re working on adding more.\n\n> To submit a request for a test, follow instructions in <#730531385235734591>",
+      "color": 16776958,
+      "fields": [
+        {
+          "name": "There will be achievements that you can get if you have a certain amount of webtoon test roles! Below are the requirements to be able to get one of those roles.",
+          "value": "__1 test passed__ - **The New Kid**\n__3 tests passed__ - **Webnoob**\n__5 tests passed__ - **Peasant**\n__10 tests passed__ - **Daily Reader**\n__15 tests passed__ - **Tester** (You can become a tester and test people)\n__20 tests passed__ - **Know-it-all**\n__30 tests passed__ - **Webtoon Obsessed**\n__40 tests passed__ - **Webtoon Fanatic**\n__50 tests passed__ - **Webtoon God**"
+        },
+        {
+          "name": "List of webtoon tests",
+          "value": "[Name of webtoon-role name]\n\n[Scorching Romance-cursed]\n[Freaking Romance-dimensional]\n[Subzero-dragon]\n[True beauty-beauty guru]\n[Unordinary-Cripple]\n[The wrath an the dawn-story teller]\n[Devil number 4-client]\n[Toaster dude-toaster]\n[Sweet Home-green home Resident]"
+        },
+        {
+          "name": "Continued...",
+          "value": "[Cursed princess club-cpc member]\n[Killstagram-media star]\n[The croaking-roost]\n[Unlovable replacement- pizza deliverer]\n[Not even bones-unnatural]\n[Lore Olympus-immortal]\n[Lumine-weredog]\n[Weak hero-hero]\n[Mage & demon queen - Adventurer]\n[Eleceed - Awakened One]\n[The Kiss Bet - Gambler]\n[Code Adam - Original]\n[Tower of God - Irregular]\n[Purple Hyacinth - Detective]\n[It's mine - Stalker]\n[My deepest secret - Protector]\n[Trump - Mana User]\n[Let's play - gamer]\n[Rebirth - Undead]\n[I love yoo - Gourmand]\n[ Noblesse - Vampire]\n[The boxer - boxer]\n[Your throne - royal]\n[ The red king - shade]\n[Age matters - Secretary]\n[The girl downstairs - Duna's servant]\n[Everywhere and Nowhere - Time traveller]\n[Midnight Poppy Land - Balthuman organization]\n[Deor- Incompetent]\n[Zero Game- Operator]\n[Spirit Fingers- Spirit Finger]\n[Watermelon- Laibah]\n[Acception- Gold Star]\n[Odd Girl Out- Odd]"
+        }
+      ]
+    }
+  ]
+}
