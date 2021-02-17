@@ -89,6 +89,10 @@
         {
           "name": "> Creator",
           "value": "The Creator role is for people who make webtoons. Refer to the creator section of the server info for more information.\n\n[<@&730531384246140932>]"
+        },
+        {
+          "name": "> Vent and Controversy Access",
+          "value": "This was put in place because <@732036368007692339> and <#807435713397129247> may contain triggering and/or sensitive content for some people. Even if they can avoid the channel, we would like to keep this server a welcoming and safe place for everyone. The role can be obtainable at <#730531384732549120>.\n\n[<@&811396248031854603>, <@&811396243888144404>]"
         }
       ]
     }
