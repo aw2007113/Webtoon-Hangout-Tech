@@ -1,73 +1,75 @@
-{ 
-  "embeds":[
-    { 
+{
+  "content": "<@730531384220713043>",
+  "embeds": [
+    {
+      "description": "Here are the Webtoons updates for today!",
+      "color": 9893760,
+      "fields": [
+        {
+          "name": ":herb: Slice of Life:",
+          "value": "[My Giant Nerd Boyfriend](https://www.webtoons.com/en/slice-of-life/my-giant-nerd-boyfriend/list?title_no=958)\n[Small World](https://www.webtoons.com/en/slice-of-life/small-world/list?title_no=1159)",
+          "inline": true
+        },
+        {
+          "name": ":performing_arts: Drama:",
+          "value": "[I Love Yoo (Hiatus)](https://www.webtoons.com/en/drama/i-love-yoo/list?title_no=986)\n[Mom, I'm Sorry](https://www.webtoons.com/en/drama/mom-im-sorry/list?title_no=2049)\n[Acception (Hiatus)](https://www.webtoons.com/en/drama/acception/list?title_no=1513)\n[Back to you](https://www.webtoons.com/en/drama/back-to-you/list?title_no=2113)\n[Lost in Translation (Hiatus)](https://www.webtoons.com/en/drama/lost-in-translation/list?title_no=1882)\n[Yuna & Kawachan](https://www.webtoons.com/en/drama/yuna-and-kawachan/list?title_no=1840)\n[Version Day and Night (Hiatus)](https://www.webtoons.com/en/drama/version-day-and-night/list?title_no=1796)\n[#Blessed (Hiatus)](https://www.webtoons.com/en/drama/blessed/list?title_no=1193)",
+          "inline": true
+        },
+        {
+          "name": ":clapper: Action:",
+          "value": "[The Gamer (Hiatus)](https://www.webtoons.com/en/action/the-gamer/list?title_no=88)\n[The God of High School](https://www.webtoons.com/en/action/the-god-of-high-school/list?title_no=66)\n[Hardcore Leveling Warrior](https://www.webtoons.com/en/action/hardcore-leveling-warrior/list?title_no=1221)\n[microHUNTER](https://www.webtoons.com/en/action/microhunter/list?title_no=2320)",
+          "inline": true
+        },
+        {
+          "name": ":joy: Comedy:",
+          "value": "[Boyfriend of the Dead](https://www.webtoons.com/en/comedy/boyfriend-of-the-dead/list?title_no=1102)\n[Love Advice from the Great Duke of Hell (Hiatus)](https://www.webtoons.com/en/comedy/love-advice/list?title_no=1498)\n[Dustinteractive](https://www.webtoons.com/en/comedy/dustinteractive/list?title_no=907)\n[Trailer Park Warlock](https://www.webtoons.com/en/comedy/trailer-park-warlock/list?title_no=1512)\n[Andy Bass](https://www.webtoons.com/en/comedy/andy-bass/list?title_no=2284)",
+          "inline": true
+        },
+        {
+          "name": ":heart: Romance:",
+          "value": "[Choco Latte (Hiatus)](https://www.webtoons.com/en/romance/choco-latte/list?title_no=1691)\n[Brimstone and Roses](https://www.webtoons.com/en/romance/brimstone-and-roses/list?title_no=1758)\n[The Makeup Remover](https://www.webtoons.com/en/romance/the-makeup-remover/list?title_no=2186)\n[Dating With a Tail](https://www.webtoons.com/en/romance/dating-with-a-tail/list?title_no=1263)\n[Secret Playlist](https://www.webtoons.com/en/romance/secret-playlist/list?title_no=2395)",
+          "inline": true
+        },
+        {
+          "name": ":sparkles: Fantasy:",
+          "value": "[Suitor Armor (Hiatus)](https://www.webtoons.com/en/fantasy/suitor-armor/list?title_no=2159)\n[KILLMAX (Hiatus)](https://www.webtoons.com/en/fantasy/killmax/list?title_no=1894)\n[Hooves of Death](https://www.webtoons.com/en/fantasy/hooves-of-death/list?title_no=1535)\n[Phantom Paradise](https://www.webtoons.com/en/fantasy/phantom-paradise/list?title_no=1250)\n[Newman (Hiatus)](https://www.webtoons.com/en/fantasy/newman/list?title_no=405)\n[Four Leaf](https://www.webtoons.com/en/fantasy/four-leaf/list?title_no=1454)\n[Thornstone](https://www.webtoons.com/en/fantasy/thornstone/list?title_no=1612)",
+          "inline": true
+        },
+        {
+          "name": ":ghost: Supernatural:",
+          "value": "[Muted](https://www.webtoons.com/en/supernatural/muted/list?title_no=1566)\n[Third Shift Society (Hiatus)](https://www.webtoons.com/en/supernatural/third-shift-society/list?title_no=1703)\n[KILLMAX (Hiatus)](https://www.webtoons.com/en/supernatural/killmax/list?title_no=1894)",
+          "inline": true
+        },
+        {
+          "name": ":knife: Thriller:",
+          "value": "[Not Even Bones (Hiatus)](https://www.webtoons.com/en/thriller/not-even-bones/list?title_no=1756)",
+          "inline": true
+        },
+        {
+          "name": ":alien: Sci-fi:",
+          "value": "[Denma](https://www.webtoons.com/en/sf/denma/list?title_no=921)",
+          "inline": true
+        },
+        {
+          "name": ":soccer: Sports:",
+          "value": "[No Scope](https://www.webtoons.com/en/sports/no-scope/list?title_no=1572)",
+          "inline": true
+        },
+        {
+          "name": ":clipboard: Others:",
+          "value": "[Heart Anthology](https://www.webtoons.com/en/heartwarming/heart-anthology/list?title_no=2191)",
+          "inline": true
+        }
+      ],
       "author": {
         "name": "New Webtoon Updates!",
         "url": "http://www.webtoons.com/",
         "icon_url": "https://cdn.discordapp.com/attachments/342431713106067476/348906406084214795/webtoons.png"
       },
-      "description": "Here are the Webtoons updates for today!",
-      "color":9893760,
       "footer": {
-      "icon_url": "https://i.ya-webdesign.com/images/baguette-arrow-png-2.png",
-      "text": "Thursday | Created by Baguette Sandwich, updated by Daniii"
-      },  
-      "fields":[
-        { 
-          "name":":herb: Slice of Life:",
-          "value":"[My Giant Nerd Boyfriend](https://www.webtoons.com/en/slice-of-life/my-giant-nerd-boyfriend/list?title_no=958)\n[Small World](https://www.webtoons.com/en/slice-of-life/small-world/list?title_no=1159)",
-          "inline":true
-        },
-        { 
-          "name":":performing_arts: Drama:",
-          "value":"[I Love Yoo (Hiatus)](https://www.webtoons.com/en/drama/i-love-yoo/list?title_no=986)\n[Mom, I'm Sorry](https://www.webtoons.com/en/drama/mom-im-sorry/list?title_no=2049)\n[Acception (Hiatus)](https://www.webtoons.com/en/drama/acception/list?title_no=1513)\n[Back to you](https://www.webtoons.com/en/drama/back-to-you/list?title_no=2113)\n[Lost in Translation (Hiatus)](https://www.webtoons.com/en/drama/lost-in-translation/list?title_no=1882)\n[Yuna & Kawachan](https://www.webtoons.com/en/drama/yuna-and-kawachan/list?title_no=1840)\n[Version Day and Night (Hiatus)](https://www.webtoons.com/en/drama/version-day-and-night/list?title_no=1796)\n[#Blessed (Hiatus)](https://www.webtoons.com/en/drama/blessed/list?title_no=1193)",
-          "inline":true
-        },
-        { 
-          "name":":clapper: Action:",
-          "value":"[The Gamer (Hiatus)](https://www.webtoons.com/en/action/the-gamer/list?title_no=88)\n[The God of High School](https://www.webtoons.com/en/action/the-god-of-high-school/list?title_no=66)\n[Hardcore Leveling Warrior](https://www.webtoons.com/en/action/hardcore-leveling-warrior/list?title_no=1221)\n[microHUNTER](https://www.webtoons.com/en/action/microhunter/list?title_no=2320)",
-          "inline":true
-        },
-        { 
-         "name":":joy: Comedy:",
-         "value":"[Boyfriend of the Dead](https://www.webtoons.com/en/comedy/boyfriend-of-the-dead/list?title_no=1102)\n[Love Advice from the Great Duke of Hell (Hiatus)](https://www.webtoons.com/en/comedy/love-advice/list?title_no=1498)\n[Dustinteractive](https://www.webtoons.com/en/comedy/dustinteractive/list?title_no=907)\n[Trailer Park Warlock](https://www.webtoons.com/en/comedy/trailer-park-warlock/list?title_no=1512)\n[Andy Bass](https://www.webtoons.com/en/comedy/andy-bass/list?title_no=2284)",
-         "inline": true
-        },
-        {
-         "name":":heart: Romance:",
-         "value": "[Choco Latte (Hiatus)](https://www.webtoons.com/en/romance/choco-latte/list?title_no=1691)\n[Brimstone and Roses](https://www.webtoons.com/en/romance/brimstone-and-roses/list?title_no=1758)\n[The Makeup Remover](https://www.webtoons.com/en/romance/the-makeup-remover/list?title_no=2186)\n[Dating With a Tail](https://www.webtoons.com/en/romance/dating-with-a-tail/list?title_no=1263)\n[Secret Playlist](https://www.webtoons.com/en/romance/secret-playlist/list?title_no=2395)",
-         "inline": true
-        },
-        { "name": ":sparkles: Fantasy:",
-          "value": "[Suitor Armor (Hiatus)](https://www.webtoons.com/en/fantasy/suitor-armor/list?title_no=2159)\n[KILLMAX (Hiatus)](https://www.webtoons.com/en/fantasy/killmax/list?title_no=1894)\n[Hooves of Death](https://www.webtoons.com/en/fantasy/hooves-of-death/list?title_no=1535)\n[Phantom Paradise](https://www.webtoons.com/en/fantasy/phantom-paradise/list?title_no=1250)\n[Newman (Hiatus)](https://www.webtoons.com/en/fantasy/newman/list?title_no=405)\n[Four Leaf](https://www.webtoons.com/en/fantasy/four-leaf/list?title_no=1454)\n[Thornstone](https://www.webtoons.com/en/fantasy/thornstone/list?title_no=1612)",
-          "inline": true
-        },
-        { 
-          "name": ":ghost: Supernatural:",
-          "value": "[Muted](https://www.webtoons.com/en/supernatural/muted/list?title_no=1566)\n[Third Shift Society (Hiatus)](https://www.webtoons.com/en/supernatural/third-shift-society/list?title_no=1703)\n[KILLMAX (Hiatus)](https://www.webtoons.com/en/supernatural/killmax/list?title_no=1894)",
-          "inline": true
-        },
-        { 
-          "name": ":knife: Thriller:",
-          "value": "[Not Even Bones (Hiatus)](https://www.webtoons.com/en/thriller/not-even-bones/list?title_no=1756)",
-          "inline": true
-        },
-        { 
-          "name": ":alien: Sci-fi:",
-          "value": "[Denma](https://www.webtoons.com/en/sf/denma/list?title_no=921)",
-          "inline": true
-        },
-        { 
-          "name": ":soccer: Sports:",
-          "value": "[No Scope](https://www.webtoons.com/en/sports/no-scope/list?title_no=1572)",
-          "inline": true
-        },
-        { 
-          "name": ":clipboard: Others:",
-          "value": "[Heart Anthology](https://www.webtoons.com/en/heartwarming/heart-anthology/list?title_no=2191)",
-          "inline": true
-        }
-      ] 
-    } 
-  ] 
+        "text": "Thursday | Created by Baguette Sandwich, updated by Daniii",
+        "icon_url": "https://i.ya-webdesign.com/images/baguette-arrow-png-2.png"
+      }
+    }
+  ]
 }
