@@ -1,80 +1,85 @@
-{ 
-  "embeds":[
-    { 
+{
+  "content": "<@730531384220713043>",
+  "embeds": [
+    {
+      "description": "Here are the Webtoon updates for today!",
+      "color": 9893760,
+      "fields": [
+        {
+          "name": ":herb: Slice of Life:",
+          "value": "[Murrz](https://www.webtoons.com/en/slice-of-life/murrz/list?title_no=1281)\n[Waffles & Pancakes](https://www.webtoons.com/en/slice-of-life/waffles-and-pancakes/list?title_no=1310)\n[As Per Usual](https://www.webtoons.com/en/slice-of-life/as-per-usual/list?title_no=599)",
+          "inline": true
+        },
+        {
+          "name": ":performing_arts: Drama:",
+          "value": "[Pyramid Game](https://www.webtoons.com/en/drama/pyramid-game/list?title_no=2277)",
+          "inline": true
+        },
+        {
+          "name": ":clapper: Action:",
+          "value": "[Weak Hero](https://www.webtoons.com/en/action/weakhero/list?title_no=1726)",
+          "inline": true
+        },
+        {
+          "name": ":joy: Comedy:",
+          "value": "[Mage & Demon Queen (Hiatus)](https://www.webtoons.com/en/comedy/mage-and-demon-queen/list?title_no=1438)\n[Toaster Dude](https://www.webtoons.com/en/comedy/toaster-dude/list?title_no=1983)\n[Meow Man](https://www.webtoons.com/en/comedy/meow-man/list?title_no=1677)\n[DON'T HATE](https://www.webtoons.com/en/comedy/dont-hate/list?title_no=1574)\n[Just Pancakes (Hiatus)](https://www.webtoons.com/en/comedy/just-pancakes/list?title_no=1651)\n[My Dictator Boyfriend](https://www.webtoons.com/en/comedy/my-dictator-boyfriend/list?title_no=1391)",
+          "inline": true
+        },
+        {
+          "name": ":heart: Romance:",
+          "value": "[Unlovable Replacement (Hiatus)](https://www.webtoons.com/en/romance/unlovable-replacement/list?title_no=1762)\n[To Love Your Enemy](https://www.webtoons.com/en/romance/to-love-your-enemy/list?title_no=2114)\n[AntiSTALKER](https://www.webtoons.com/en/romance/antistalker/list?title_no=2087)\n[Kind of Confidential (Hiatus)](https://www.webtoons.com/en/romance/kind-of-confidential/list?title_no=663)\n[Brass & Sass (Hiatus)](https://www.webtoons.com/en/romance/brass-and-sass/list?title_no=1652)\n[See You in My 19th Life](https://www.webtoons.com/en/romance/see-you-in-my-19th-life/list?title_no=1266)",
+          "inline": true
+        },
+        {
+          "name": ":sparkles: Fantasy:",
+          "value": "[The Witch and The Bull (Hiatus)](https://www.webtoons.com/en/fantasy/the-witch-and-the-bull/list?title_no=1892)\n[ROB](https://www.webtoons.com/en/fantasy/rob/list?title_no=2479)",
+          "inline": true
+        },
+        {
+          "name": ":knife: Thriller:",
+          "value": "[Escape Room](https://www.webtoons.com/en/thriller/escape-room/list?title_no=1815)",
+          "inline": true
+        },
+        {
+          "name": ":ghost: Supernatural:",
+          "value": "[The Red King](https://www.webtoons.com/en/supernatural/the-red-king/list?title_no=1687)\n[Lalin's Curse (Hiatus)](https://www.webtoons.com/en/supernatural/lalins-curse/list?title_no=1601)\n[Simon Sues](https://www.webtoons.com/en/supernatural/simon-sues/list?title_no=1619)\n[Unholy Blood](https://www.webtoons.com/en/supernatural/unholy-blood/list?title_no=1262)",
+          "inline": true
+        },
+        {
+          "name": ":alien: Sci-fi:",
+          "value": "[City of Blank](https://www.webtoons.com/en/sf/city-of-blank/list?title_no=1895)\n[Parallel City](https://www.webtoons.com/en/sf/parallelcity/list?title_no=2053)\n[Space Boy](https://www.webtoons.com/en/sf/space-boy/list?title_no=400)\n[Denma](https://www.webtoons.com/en/sf/denma/list?title_no=921)",
+          "inline": true
+        },
+        {
+          "name": ":scream: Horror:",
+          "value": "[Beetle Hands](https://www.webtoons.com/en/horror/beetle-hands/list?title_no=2247)\n[BRAIN Anthology (Hiatus)](https://www.webtoons.com/en/horror/brain-anthology/list?title_no=2207)",
+          "inline": true
+        },
+        {
+          "name": ":sunglasses: Superhero:",
+          "value": "[unOrdinary](https://www.webtoons.com/en/super-hero/unordinary/list?title_no=679)",
+          "inline": true
+        },
+        {
+          "name": ":soccer: Sports:",
+          "value": "[The Boxer](https://www.webtoons.com/en/action/the-boxer/list?title_no=2027)",
+          "inline": true
+        },
+        {
+          "name": ":clipboard: Other:",
+          "value": "[Heart Anthrology (Hiatus)](https://www.webtoons.com/en/heartwarming/heart-anthology/list?title_no=2191)",
+          "inline": true
+        }
+      ],
       "author": {
         "name": "New Updates!",
         "url": "http://www.webtoons.com/",
         "icon_url": "https://cdn.discordapp.com/attachments/342431713106067476/348906406084214795/webtoons.png"
       },
-      "description": "Here are the Webtoon updates for today!",
-      "color":9893760,
       "footer": {
-      "icon_url": "https://swebtoon-phinf.pstatic.net/20200131_75/1580447266953zmsf3_JPEG/M_details.jpg?type=crop540_540",
-      "text": "Wednesday | Created by thetoastandpotato, updated by Baguette Sandwich"
-      },  
-      "fields":[
-        { 
-          "name":":herb: Slice of Life:",
-          "value":"[Murrz](https://www.webtoons.com/en/slice-of-life/murrz/list?title_no=1281)\n[Waffles & Pancakes](https://www.webtoons.com/en/slice-of-life/waffles-and-pancakes/list?title_no=1310)\n[As Per Usual](https://www.webtoons.com/en/slice-of-life/as-per-usual/list?title_no=599)",
-          "inline":true
-        },
-        { 
-          "name":":clapper: Action:",
-          "value":"[Weak Hero](https://www.webtoons.com/en/action/weakhero/list?title_no=1726)",
-          "inline":true
-        },
-        { 
-         "name":":joy: Comedy:",
-         "value":"[Mage & Demon Queen](https://www.webtoons.com/en/comedy/mage-and-demon-queen/list?title_no=1438)\n[Toaster Dude](https://www.webtoons.com/en/comedy/toaster-dude/list?title_no=1983)\n[Meow Man](https://www.webtoons.com/en/comedy/meow-man/list?title_no=1677)\n[DON'T HATE](https://www.webtoons.com/en/comedy/dont-hate/list?title_no=1574)\n[Just Pancakes](https://www.webtoons.com/en/comedy/just-pancakes/list?title_no=1651)\n[My Dictator Boyfriend](https://www.webtoons.com/en/comedy/my-dictator-boyfriend/list?title_no=1391)",
-         "inline": true
-        },
-        {
-         "name":":heart: Romance:",
-         "value": "[Unlovable Replacement (Hiatus)](https://www.webtoons.com/en/romance/unlovable-replacement/list?title_no=1762)\n[To Love Your Enemy](https://www.webtoons.com/en/romance/to-love-your-enemy/list?title_no=2114)\n[AntiSTALKER](https://www.webtoons.com/en/romance/antistalker/list?title_no=2087)\n[Kind of Confidential (Hiatus)](https://www.webtoons.com/en/romance/kind-of-confidential/list?title_no=663)\n[Brass & Sass](https://www.webtoons.com/en/romance/brass-and-sass/list?title_no=1652)\n[See You in My 19th Life](https://www.webtoons.com/en/romance/see-you-in-my-19th-life/list?title_no=1266)",
-         "inline": true
-        },
-        { "name": ":sparkles: Fantasy:",
-          "value": "[The Witch and The Bull (Hiatus)](https://www.webtoons.com/en/fantasy/the-witch-and-the-bull/list?title_no=1892)",
-          "inline": true
-        },
-        { 
-          "name": ":knife: Thriller:",
-          "value": "[Escape Room (Hiatus)](https://www.webtoons.com/en/thriller/escape-room/list?title_no=1815)",
-          "inline": true
-        },
-        { 
-          "name": ":ghost: Supernatural:",
-          "value": "[The Red King (Hiatus)](https://www.webtoons.com/en/supernatural/the-red-king/list?title_no=1687)\n[Lalin's Curse (Hiatus)](https://www.webtoons.com/en/supernatural/lalins-curse/list?title_no=1601)\n[Simon Sues](https://www.webtoons.com/en/supernatural/simon-sues/list?title_no=1619)\n[Unholy Blood](https://www.webtoons.com/en/supernatural/unholy-blood/list?title_no=1262)",
-          "inline": true
-        },
-        { 
-          "name": ":alien: Sci-fi:",
-          "value": "[City of Blank](https://www.webtoons.com/en/sf/city-of-blank/list?title_no=1895)\n[Parallel City](https://www.webtoons.com/en/sf/parallelcity/list?title_no=2053)\n[Space Boy](https://www.webtoons.com/en/sf/space-boy/list?title_no=400)\n[Denma](https://www.webtoons.com/en/sf/denma/list?title_no=921)",
-          "inline": true
-        },
-        { 
-          "name": ":scream: Horror:",
-          "value": "[Beetle Hands](https://www.webtoons.com/en/horror/beetle-hands/list?title_no=2247)\n[BRAIN Anthology](https://www.webtoons.com/en/horror/brain-anthology/list?title_no=2207)",
-          "inline": true
-        },
-        { 
-          "name": ":sunglasses: Superhero:",
-          "value": "[unOrdinary](https://www.webtoons.com/en/super-hero/unordinary/list?title_no=679)",
-          "inline": true
-        },
-        { 
-          "name": ":soccer: Sports:",
-          "value": "[The Boxer](https://www.webtoons.com/en/action/the-boxer/list?title_no=2027)",
-          "inline": true
-          },
-        { 
-          "name": ":fire: Heartwarming:",
-          "value": "[Heart Anthrology](https://www.webtoons.com/en/heartwarming/heart-anthology/list?title_no=2191)",
-          "inline": true
-       
-
-        }
-      ] 
-    } 
-  ] 
+        "text": "Wednesday | Created by thetoastandpotato, updated by Baguette Sandwich",
+        "icon_url": "https://swebtoon-phinf.pstatic.net/20200131_75/1580447266953zmsf3_JPEG/M_details.jpg?type=crop540_540"
+      }
+    }
+  ]
 }
