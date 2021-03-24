@@ -2,6 +2,17 @@
   "content": null,
   "embeds": [
     {
+      "title": "**⊱ ────── { Booster Perks**",
+      "description": "<a:MERR_boostingtop:631280695146184725> Custom role with color of choice\n<a:MERR_boostingtop:631280695146184725> Reserved bot and vc\n<a:MERR_boostingtop:631280695146184725> Able to host giveaways\n<a:MERR_boostingtop:631280695146184725> 2-3 Custom emotes of choice",
+      "color": 16776958,
+      "fields": [
+        {
+          "name": "Boosted the server? DM an owner or admin to recieve your perks!",
+          "value": "Thank you for boosting!"
+        }
+      ]
+    },
+    {
       "title": "**⊱ ────── { How to Support Webtoon Hangout**",
       "color": 16776958,
       "fields": [
