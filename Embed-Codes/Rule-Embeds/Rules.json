@@ -45,10 +45,6 @@
           "value": "Bot commands are not allowed in any channel except <#738469211298332692> or its designated channels like - <#730531385885982724> (mini commands such as AFK's and Tupper-bots go under the same rulings)."
         },
         {
-          "name": "No spam reacting to messages",
-          "value": "Repetition of reactions in multiple messages."
-        },
-        {
           "name": "Bot abuse will not be tolerated",
           "value": "Constant bot commands profusely used are considered literal bot abuse. Unnecessary commands are also considered bot abuse - using the suggestion bot to play around instead of an actual suggestion."
         },
@@ -78,10 +74,6 @@
         {
           "name": "No voice channel hopping",
           "value": "Please don't spam connect/disconnect or move VCs."
-        },
-        {
-          "name": "Keep the bots in the right VCs",
-          "value": "No music of any kind in any channel with the exception of the Music VCs and Music Night VC"
         },
         {
           "name": "Keep it clean",
