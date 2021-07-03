@@ -17,7 +17,7 @@
         },
         {
           "name": "List of webtoon tests",
-          "value": "Type `w!webtoontestlist` for the full list of webtoon tests!"
+          "value": "Type `w!tests` for the full list of webtoon tests!"
         }
       ]
     }
